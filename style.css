@@ -1,0 +1,18 @@
+.name_of_object {
+    font-size: 20px;
+    color: white;
+}
+
+body{
+    background: linear-gradient(rgb(0, 110, 255),rgb(117, 0, 128));
+}
+
+#camera{
+    width: 350px;
+    height: 300px;
+    border: 5px double rgb(0, 255, 0);
+}
+
+#object, #accuracy{
+    color: yellow;
+}
